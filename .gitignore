@@ -1,0 +1,4 @@
+# Ignore prompts file
+prompts.md
+venv/
+.env

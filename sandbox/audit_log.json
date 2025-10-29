@@ -1,0 +1,75 @@
+[
+  {
+    "timestamp": "2025-10-29T13:50:17.203377",
+    "action_id": "ACTION-20251029135017",
+    "action_type": "applied",
+    "details": {
+      "action_type": "make_good_invoice",
+      "proposal_id": "PROP-20251029135017",
+      "plan_id": "C-1001",
+      "customer_name": "ACME Corp",
+      "invoice_id": "I-9203",
+      "amount": 8000.0,
+      "currency": "USD",
+      "reason": "Missing 2025-09 billing for ACME Corp",
+      "status": "applied",
+      "created_at": "2025-10-29T13:50:17.202062",
+      "action_id": "ACTION-20251029135017",
+      "applied_at": "2025-10-29T13:50:17.202079"
+    }
+  },
+  {
+    "timestamp": "2025-10-29T13:50:22.889104",
+    "action_id": "ACTION-20251029135017",
+    "action_type": "rollback",
+    "details": {
+      "action_id": "ACTION-20251029135017"
+    }
+  },
+  {
+    "timestamp": "2025-10-29T14:06:55.991440",
+    "action_id": "ACTION-20251029140655",
+    "action_type": "applied",
+    "details": {
+      "action_type": "make_good_invoice",
+      "proposal_id": "PROP-20251029140655",
+      "plan_id": "C-1001",
+      "customer_name": "ACME Corp",
+      "invoice_id": "I-9203",
+      "amount": 8000.0,
+      "currency": "USD",
+      "reason": "Missing 2025-09 billing for ACME Corp",
+      "status": "applied",
+      "created_at": "2025-10-29T14:06:55.989207",
+      "action_id": "ACTION-20251029140655",
+      "applied_at": "2025-10-29T14:06:55.989223"
+    }
+  },
+  {
+    "timestamp": "2025-10-29T14:07:25.853569",
+    "action_id": "ACTION-20251029140655",
+    "action_type": "rollback",
+    "details": {
+      "action_id": "ACTION-20251029140655"
+    }
+  },
+  {
+    "timestamp": "2025-10-29T14:19:23.190940",
+    "action_id": "ACTION-20251029141923",
+    "action_type": "applied",
+    "details": {
+      "action_type": "make_good_invoice",
+      "proposal_id": "PROP-20251029141923",
+      "plan_id": "C-1001",
+      "customer_name": "ACME Corp",
+      "invoice_id": "I-9203",
+      "amount": 8000.0,
+      "currency": "USD",
+      "reason": "Missing 2025-09 billing for ACME Corp",
+      "status": "applied",
+      "created_at": "2025-10-29T14:19:23.189561",
+      "action_id": "ACTION-20251029141923",
+      "applied_at": "2025-10-29T14:19:23.189572"
+    }
+  }
+]
