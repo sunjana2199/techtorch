@@ -9,6 +9,8 @@ Watch or download the full demo:
 - [Watch the demo (MOV)](media/demo.mov)
 - [Watch the demo (GIF)](media/demo.gif)
 
+![Demo Preview](media/demo.gif)
+
 HTML embed (may not render in all viewers):
 
 <video src="media/demo.mov" controls width="800"></video>
