@@ -2,6 +2,16 @@
 
 A streamlined interface for detecting and fixing revenue leakage issues.
 
+## Demo Video
+
+Watch or download the full demo:
+
+- [Watch the demo (MOV)](media/demo.mov)
+
+HTML embed (may not render in all viewers):
+
+<video src="media/demo.mov" controls width="800"></video>
+
 ## Features
 
 ### 🎯 Simple User Flow
@@ -103,6 +113,8 @@ A streamlined interface for detecting and fixing revenue leakage issues.
 Troubleshooting:
 - If Streamlit can’t find the environment variables, ensure the `.env` file exists at the project root.
 - If imports fail, confirm your virtual environment is activated and `pip install -r requirements.txt` completed successfully.
+
+
 
 ## Next Steps
 
