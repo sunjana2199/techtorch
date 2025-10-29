@@ -7,6 +7,7 @@ A streamlined interface for detecting and fixing revenue leakage issues.
 Watch or download the full demo:
 
 - [Watch the demo (MOV)](media/demo.mov)
+- [Watch the demo (GIF)](media/demo.gif)
 
 HTML embed (may not render in all viewers):
 
